@@ -1,0 +1,6 @@
+go.mod
+go.sum
+sql/create_tables.sql:Zone.Identifier
+.vscode
+.git
+.DS_Store
