@@ -1,6 +1,7 @@
 go.mod
 go.sum
 sql/create_tables.sql:Zone.Identifier
+postgres-data/
 .vscode
 .git
 .DS_Store
