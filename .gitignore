@@ -5,3 +5,4 @@ postgres-data/
 .vscode
 .git
 .DS_Store
+.help
